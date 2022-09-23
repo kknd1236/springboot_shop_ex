@@ -1,4 +1,4 @@
-package ai.makebot.shop.members;
+package ai.makebot.shop.domain.members;
 
 import ai.makebot.shop.web.dto.MemberFormDto;
 import lombok.Builder;
